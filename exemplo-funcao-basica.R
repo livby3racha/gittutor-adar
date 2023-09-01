@@ -1,6 +1,6 @@
 
 # Funcao para somar o valor 1
-soma_1 <- function(x) x + 1
+soma_k <- function(x, k) x + k
 
 # exemplo 
-soma_1(x = 10)
+soma_k(x = 10, k = 2)
