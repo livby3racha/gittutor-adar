@@ -39,8 +39,6 @@ gitcreds::gitcreds_set()
 
 pak::pak('usethis')
 
-# token github 1035: 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
-
 # link de como configurar o git: https://happygitwithr.com/https-pat.html
 
 
